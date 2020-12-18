@@ -78,6 +78,15 @@
       "language": {
         "2020": "XSLT"
       }
+    },
+    "978698": {
+      "just_to_know_id_meaning": "Nicolas Sénave",
+      "link": {
+        "2020": "https://github.com/nsenave/advent-of-code-2020"
+      },
+      "language": {
+        "2020": "Python"
+      }
     }
   }
 }
